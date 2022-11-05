@@ -20,12 +20,12 @@
           <a class="mr-2 text-black px-[7px] py-[9px] w-[30px] h-[30px] rounded-full bg-white flex items-center justify-center" href="#">УЗ</a>
           <a class="text-gray-400" href="#">РУ</a>
         </div>
-        <a class="bg-blue-400 text-white px-5 py-3 font-base font-medium rounded-[10px] leading-[18.96px]" href="#">Войти</a>
+        <Button name="Voyti" />
       </div>
     </div>
   </header>
 </template>
 
-<script>
-
+<script setup>
+import Button from './Button.vue'
 </script>

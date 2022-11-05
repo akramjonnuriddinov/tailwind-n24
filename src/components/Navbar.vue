@@ -1,13 +1,40 @@
 <template>
-  <div class="container px-5 pt-1 mx-auto mb-8">
+  <!-- <div class="container px-5 pt-1 mx-auto mb-8">
     <nav class="pt-5 pb-5 border-b border-gray-300">
       <ul class="flex items-center justify-between">
-        <li class="mr-[34px] last:mr-0" v-for="link in links">
-          <a class="text-lg font-medium text-gray-500 capitalize" href="#">{{ link.text }}</a>
+        <li class="mr-[34px] last:mr-0">
+          <a class="text-lg font-medium text-gray-500 capitalize" href="#">Главное</a>
+        </li>
+        <li class="mr-[34px] last:mr-0">
+          <a class="text-lg font-medium text-gray-500 capitalize" href="#">Интересное</a>
+        </li>
+        <li class="mr-[34px] last:mr-0">
+          <a class="text-lg font-medium text-gray-500 capitalize" href="#">Экономика</a>
+        </li>
+        <li class="mr-[34px] last:mr-0">
+          <a class="text-lg font-medium text-gray-500 capitalize" href="#">Политика</a>
+        </li>
+        <li class="mr-[34px] last:mr-0">
+          <a class="text-lg font-medium text-gray-500 capitalize" href="#">Общество</a>
+        </li>
+        <li class="mr-[34px] last:mr-0">
+          <a class="text-lg font-medium text-gray-500 capitalize" href="#">Технологии</a>
+        </li>
+        <li class="mr-[34px] last:mr-0">
+          <a class="text-lg font-medium text-gray-500 capitalize" href="#">Спорт</a>
+        </li>
+        <li class="mr-[34px] last:mr-0">
+          <a class="text-lg font-medium text-gray-500 capitalize" href="#">Культура</a>
+        </li>
+        <li class="mr-[34px] last:mr-0">
+          <a class="text-lg font-medium text-gray-500 capitalize" href="#">Происшествия</a>
+        </li>
+        <li class="mr-[34px] last:mr-0">
+          <a class="text-lg font-medium text-gray-500 capitalize" href="#">Наука</a>
         </li>
       </ul>
     </nav>
-  </div>
+  </div> -->
 </template>
 
 <script>
